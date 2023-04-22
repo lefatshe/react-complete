@@ -1,0 +1,166 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 37.77361,
+            "lng": -122.421622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.7750214302915,
+              "lng": -122.4202089697085
+            },
+            "southwest": {
+              "lat": 37.7723234697085,
+              "lng": -122.4229069302915
+            }
+          }
+        },
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Blueberry diesel",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6786
+          }
+        ],
+        "place_id": "some place id 41",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1675,
+        "vicinity": "Blueberry Diesel is a cross of two favorite strains, Blueberry and Sour Diesel. It is probably best known for its strong blueberry smell with hints of fuel ..."
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 37.77361,
+            "lng": -122.421622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.7750214302915,
+              "lng": -122.4202089697085
+            },
+            "southwest": {
+              "lat": 37.7723234697085,
+              "lng": -122.4229069302915
+            }
+          }
+        },
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Pink Rozay",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6786
+          }
+        ],
+        "place_id": "some place id 41",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1675,
+        "vicinity": "Pink Rozay is a potent indica marijuana strain bred by Cookies."
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 37.77361,
+            "lng": -122.421622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 37.7750214302915,
+              "lng": -122.4202089697085
+            },
+            "southwest": {
+              "lat": 37.7723234697085,
+              "lng": -122.4229069302915
+            }
+          }
+        },
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "American Kush",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6786
+          }
+        ],
+        "place_id": "some place id 41",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1675,
+        "vicinity": "American Kush, by Alphakronik Genes (AKG), is a 70/30 indica-dominant combination of Pre-98 Bubba Kush and Sin City Kush."
+      }
+    ],
+    "status": "OK"
+  }
